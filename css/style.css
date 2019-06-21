@@ -23,3 +23,11 @@ body {
   align-items: center;
 
 }
+
+.icon {
+  margin-right: 15px;
+}
+
+.icon i {
+ font-size: 2em;
+}
