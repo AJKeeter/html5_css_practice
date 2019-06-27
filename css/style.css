@@ -18,9 +18,9 @@ body {
   padding: 60px 100px;
 }
 
-.left-column {
-  display: flex;
-  align-items: center;
+.left-column > .contact-hours-wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
 
 }
 
