@@ -13,7 +13,7 @@ body {
 
 .navigation-wrapper {
   height: 190px;
-  background-color: #11122b;
+  background-color: teal;
   color: #cbcbcb;
   display: flex;
   justify-content: space-between;
