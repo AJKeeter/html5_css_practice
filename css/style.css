@@ -8,6 +8,7 @@ body {
 }
 
 #address-wrapper {
+  font-family: 'Ubuntu Condensed', sans-serif;
 }
 
 .navigation-wrapper {
@@ -33,4 +34,13 @@ body {
 
 .icon i {
  font-size: 2em;
+}
+
+.contact-hours-wrapper > .hours {
+  font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.nav-link a {
+  font-family: 'Ubuntu Condensed', sans-serif;
+  color: white;
 }
