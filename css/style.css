@@ -49,3 +49,26 @@ body {
   font-family: 'Ubuntu Condensed', sans-serif;
   color: white;
 }
+
+.navigation-wrapper > .center-column {
+  width: 216px;
+  grid-template-columns: 1fr;
+  gird-gap: 42px;
+  width:  500px;
+}
+
+.navigation-wrapper > .center-column > .banner-image {
+  display: flex;
+  justify-content: center;
+}
+
+.navigation-wrapper > .center-column > .banner-image img {
+  width: 216px;
+  height: 100%;
+}
+
+.links-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
