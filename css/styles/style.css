@@ -4,8 +4,6 @@ body {
 
 }
 
-.navigation-wrapper > .contact-hours-wrapper {
-}
 
 .navigation-wrapper > .right-column > .address-wrapper {
   font-family: 'Ubuntu Condensed', sans-serif;
@@ -57,6 +55,12 @@ body {
   grid-template-columns: 1fr;
   grid-gap: 10px;
 
+}
+
+.navigation-wrapper > .left-column > .contact-hours-wrapper > .hours {
+  font-family: "Ubuntu Condensed", sans-serif;
+  color: #cbcbcb;
+  font-size: 0.8em;
 }
 
 .navigation-wrapper > .left-column {
