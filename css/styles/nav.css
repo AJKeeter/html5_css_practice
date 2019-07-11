@@ -27,9 +27,9 @@ body {
 }
 
 .navigation-wrapper > .right-column > .contact-icon a {
-   color: #cbcbcb;
-   transition: 0.5s;
- }
+  color: #cbcbcb;
+  transition: 0.5s;
+}
 
 .navigation-wrapper > .right-column > .contact-icon a:hover {
   color: #cea135;
@@ -73,7 +73,7 @@ body {
 }
 
 .navigation-wrapper > .left-column > .icon i {
- font-size: 2em;
+  font-size: 2em;
 }
 
 .contact-hours-wrapper > .hours {
