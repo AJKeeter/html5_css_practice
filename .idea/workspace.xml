@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d5c40c08-48e5-4fe1-9a1d-8ebf1b8befb6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles/common.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles/common.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles/homepage.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles/homepage.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/backgrounds/fries-hero-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/backgrounds/friesHeroBg.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,29 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/styles/homepage.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/styles/common.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+            <state relative-caret-position="640">
+              <caret line="105" column="74" selection-start-line="105" selection-start-column="74" selection-end-line="105" selection-end-column="74" />
             </state>
           </provider>
         </entry>
@@ -60,10 +39,33 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles/nav.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="1500">
+              <caret line="100" column="15" lean-forward="true" selection-start-line="100" selection-start-column="15" selection-end-line="100" selection-end-column="15" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles/homepage.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/styles/common.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/backgrounds/friesHeroBg.jpg">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -84,8 +86,8 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/css/styles/nav.css" />
         <option value="$PROJECT_DIR$/css/styles/common.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/styles/homepage.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -112,12 +114,6 @@
               <item name="html5_css_practice" type="b2602c69:ProjectViewProjectNode" />
               <item name="html5_css_practice" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="html5_css_practice" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html5_css_practice" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="styles" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="html5_css_practice" type="b2602c69:ProjectViewProjectNode" />
@@ -189,7 +185,7 @@
       <updated>1560883322770</updated>
       <workItem from="1560883323881" duration="14197000" />
       <workItem from="1561661254931" duration="8164000" />
-      <workItem from="1562792811045" duration="5819000" />
+      <workItem from="1562792811045" duration="7404000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1560883808462</created>
@@ -380,16 +376,38 @@
       <option name="project" value="LOCAL" />
       <updated>1562860893825</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Refactoring">
+      <created>1562973013789</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1562973013789</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Adds styling">
+      <created>1562973027379</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1562973027379</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Application">
+      <created>1562973043150</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1562973043150</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28180000" />
+    <option name="totallyTimeSpent" value="29765000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="917" y="23" width="1003" height="1057" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23413111" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23413111" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -401,8 +419,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="9" sideWeight="0.49946293" visible="true" weight="0.3284974" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946293" weight="0.19274612" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49946293" weight="0.3284974" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49946293" visible="true" weight="0.19274612" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053704" side_tool="true" weight="0.32906404" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -454,9 +472,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Adds background images director" />
-    <MESSAGE value="Workspace" />
-    <MESSAGE value="Adds more images and related image directories" />
     <MESSAGE value="Workspace.xml" />
     <MESSAGE value="Adds navbar to Menu Page" />
     <MESSAGE value="Adds navbar to Contact Page" />
@@ -479,7 +494,10 @@
     <MESSAGE value="Adds animations and styling to right side of navbar" />
     <MESSAGE value="Fixes navigation and adds different directories and styles" />
     <MESSAGE value="Adds background image" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adds background image" />
+    <MESSAGE value="Refactoring" />
+    <MESSAGE value="Adds styling" />
+    <MESSAGE value="Application" />
+    <option name="LAST_COMMIT_MESSAGE" value="Application" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/icon.png">
@@ -524,11 +542,23 @@
     <entry file="file://$PROJECT_DIR$/images/backgrounds/contact.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles/common.css">
+    <entry file="file://$PROJECT_DIR$/js/vendor/modernizr-3.7.1.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+        <state relative-caret-position="15">
+          <caret line="2" column="1390" selection-start-line="2" selection-start-column="1390" selection-end-line="2" selection-end-column="1390" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/vendor/jquery-3.4.1.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="52313" selection-start-line="1" selection-start-column="52313" selection-end-line="1" selection-end-column="52313" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1014" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/backgrounds/friesHeroBg.jpg">
@@ -536,22 +566,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/styles/nav.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="1500">
+          <caret line="100" column="15" lean-forward="true" selection-start-line="100" selection-start-column="15" selection-end-line="100" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles/homepage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1440">
-          <caret line="96" column="5" selection-start-line="96" selection-start-column="5" selection-end-line="96" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles/homepage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+        <state relative-caret-position="640">
+          <caret line="105" column="74" selection-start-line="105" selection-start-column="74" selection-end-line="105" selection-end-column="74" />
         </state>
       </provider>
     </entry>
