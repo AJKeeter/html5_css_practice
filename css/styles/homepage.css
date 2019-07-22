@@ -44,11 +44,15 @@
   justify-content: space-between;
 }
 
-.column {
+.features-section > .columns-wrapper > .column {
   padding: 20px;
   margin: 42px;
   text-align: center;
   border-bottom: 5px solid transparent;
   border-radius: 10px;
   transition: 1s;
+}
+
+.features-section > .columns-wrapper > .column:hover {
+  border-bottom: 5px solid #11122b;
 }
